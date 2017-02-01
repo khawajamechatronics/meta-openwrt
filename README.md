@@ -1,2 +1,3 @@
 # meta-openwrt
-OpenWRT package for macchina.io
+
+OpenWRT package meta data for macchina.io (work in progress).
